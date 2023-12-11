@@ -1,0 +1,60 @@
+.topSquare{
+    width: 1000px;
+    height: 60px;
+    background-color: black;
+}
+
+.homeBody{
+    background-color: black;
+}
+
+.aboutBody{
+    background-color: rgb(105, 21, 21);
+}
+p{
+    color: rgb(160, 166, 167);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 13px;
+    font-style: oblique;
+    line-height: 9px;
+    padding: 0;
+    border: none;
+}
+.p1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 9px;
+    padding: 0;
+    border: none;
+}
+.top{
+    width: 90px;
+    height: 40px;
+    margin-left: -5px;
+    padding: 0;
+    border: none;
+    background-color: rgb(175, 177, 178);
+}
+.resumeBackImg{
+    background-image: url(https://i.pinimg.com/originals/33/c0/1d/33c01df2e3aeb4d5cc96a008942a66ff.gif);
+
+}
+.resumePic{
+    margin-left: 300px;
+    border: none;
+    padding: 0;
+}
+
+.img-with-text {
+    text-align: justify;
+    width: 250px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
