@@ -5,11 +5,17 @@
 }
 
 .homeBody{
-    background-color: black;
+    background-image: url(https://68.media.tumblr.com/6bd16c603c5d0339cb7c736b7a0a763f/tumblr_odx29kaRII1scvbdvo1_500.gif);
+    background-size: cover;
 }
 
 .aboutBody{
     background-color: rgb(105, 21, 21);
+}
+h1{
+    color: rgb(135, 30, 119);
+    text-align: center;
+    font-style: inherit;
 }
 p{
     color: rgb(160, 166, 167);
